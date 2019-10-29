@@ -9,6 +9,9 @@
             "email": "n.widart@gmail.com"
         }
     ],
+    "require": {
+        "rooshan/qore-works": "^1.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
