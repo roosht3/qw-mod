@@ -1,0 +1,26 @@
+{
+    "name": "rooshan/settings",
+    "type": "qore-works-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Rooshan Akthar",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Settings\\Providers\\SettingsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Settings\\": ""
+        }
+    }
+}
