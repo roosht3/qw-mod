@@ -1,6 +1,7 @@
 {
     "name": "rooshan/settings",
     "type": "qore-works-module",
+    "license: "MIT",
     "description": "",
     "authors": [
         {
